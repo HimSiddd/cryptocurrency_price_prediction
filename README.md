@@ -9,7 +9,7 @@ EXECUTION:
    (It creates a customized keras file according to your system)
 
 4. Download the requirements based on the code---
-   pip install <module names as in the code>
+   pip install <module>
    
 5. Run app.py in a compiler(VS Code)-
    Note: Configure the keras file path in the app.py as in your system. 
